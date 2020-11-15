@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	
+	<title>
+		Size Chart
+	</title>
+  
+  <meta name="theme-color" content="#000" />
+  <script type="text/javascript" src="jquery.min.js"></script>
+	
+	<style>
+		body {
+      color: white;
+			margin: 0;
+			padding: 0;
+			background-color:#232323;
+			display: flex;
+			text-align: center;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			min-height: 100vh;
+		}
+		
+		img {
+			width: 100%;
+			max-width: 600px;
+		}
+	</style>
+	
+</head>
+
+<body id="" class="loading initial-load">
+	<img src="" alt="Loading your size chart now... If you see this for too long, we might not have this size chart ready yet!">
+  <span>Note: All measurements are in inches.</span>
+	
+  <script>    
+		var queries = {};
+		$.each(document.location.search.substr(1).split('&'),function(c,q){
+			var i = q.split('=');
+			queries[i[0].toString()] = i[1].toString();
+		});
+		
+		var string = "https://secondcityprints.mobi/sizes/" + queries.style.toLowerCase() + ".png";
+		$("img").attr("src", string);
+  </script>
+  
+</body>
+</html>
