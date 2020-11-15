@@ -1,5 +1,5 @@
 Uri: https://www.unusannus.com/
-File Name: c:\Downloaded Web Sites\2am\www.unusannus.com\index.htm
+File Name: c:\Downloaded Web Sites\2am\www.unusannus.com\index.html
 Content Type: text/html
 
 Uri: https://cdn.shopify.com/s/files/1/0509/6685/5851/t/7/assets/favicon.png?v=3632849545098929394
@@ -383,7 +383,7 @@ File Name: c:\Downloaded Web Sites\2am\www.unusannus.com\products\endhoodieblack
 Content Type: application/json+oembed
 
 Uri: https://secondcityprints.mobi/sizes/?style=ss4500
-File Name: c:\Downloaded Web Sites\2am\www.unusannus.com\sizes\index.htm
+File Name: c:\Downloaded Web Sites\2am\www.unusannus.com\sizes\index.html
 Content Type: text/html
 
 Uri: https://cdn.shopify.com/s/files/1/0509/6685/5851/products/TheEnd-Hoodie_1000x1000.png?v=1605201922
@@ -951,6 +951,6 @@ File Name: c:\Downloaded Web Sites\2am\www.unusannus.com\shopifycloud\shopify\as
 Content Type: text/css
 
 Uri: http://www.secondcityprints.com/covid/
-File Name: c:\Downloaded Web Sites\2am\www.unusannus.com\covid\index.htm
+File Name: c:\Downloaded Web Sites\2am\www.unusannus.com\covid\index.html
 Content Type: text/html
 
