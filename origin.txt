@@ -262,7 +262,7 @@ Uri: https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js
 File Name: c:\Downloaded Web Sites\2am\www.unusannus.cf\ajax\libs\modernizr\2.8.3\modernizr.min.js
 Content Type: application/javascript
 
-Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+Uri: https://cdnjs.cloudflare.com/jquery.min.js
 File Name: c:\Downloaded Web Sites\2am\www.unusannus.cf\ajax\libs\jquery\3.3.1\jquery.min.js
 Content Type: application/javascript
 
